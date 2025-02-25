@@ -29,9 +29,9 @@ Boost your Salesforce development workflow with Salesforce Mate, a feature-rich 
 - Download ZIP backups for safe storage
 
 ## **🚀 Upcoming Features**
-- **SOQL Query Builder**
 - **Test Class & Code Coverage Checker**
 - **LWC Component Tree Explorer**
+- and many more...
 
 Whether you're debugging, testing, or deploying, Salesforce Mate is your go-to tool for a seamless development experience.
 
@@ -41,7 +41,7 @@ Whether you're debugging, testing, or deploying, Salesforce Mate is your go-to t
 3. Start using the powerful suite of tools!
 
 ## **📩 Support & Feedback**
-For bug reports, feature requests, or general feedback, visit our GitHub support repository:
+For bug reports, feature requests, or general feedback you can use this.
 [GitHub Support Page](https://github.com/Swapnamoy4345/my-salesforce-mate-support)
 
 ## **🔒 Security**
